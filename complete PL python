@@ -4,6 +4,8 @@ from scipy.optimize import curve_fit
 import matplotlib
 from matplotlib import pyplot as plt
 
+# add plotting later
+
 # --- Settings ---
 excel_path = "C:/Users/mw/OneDrive/Documents/b_Cambridge/b_Cam_term_2/e_persistance_results/a_FC_1.1_50x25_monomers.xlsx"  # Change this to your actual Excel file path
 delta_start = 2  # Skip delta=1 since it's always 1
